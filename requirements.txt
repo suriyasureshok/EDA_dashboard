@@ -1,0 +1,5 @@
+pandas
+json
+scikit-learn
+matplotlib.pyplot
+seaborn
